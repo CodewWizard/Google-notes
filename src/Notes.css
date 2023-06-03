@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+h1{
+    width: 370px;
+    margin: auto;
+    margin-top: 10px;
+}
+.card{
+    width: 50%;
+    margin: auto;
+    margin-top: 50px;
+}
+.form-control{
+    font-size: 18px;
+}
+
+.card-header{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.btn{
+    width: 7%;
+    margin-left: 327px;
+    display: inline-block;
+}
+
+.btn:hover{
+    box-shadow: 2px 2px 2px 1px rgb(159, 159, 159);
+}
+
+.new-card{
+    width: 30%;
+    margin: 20px;
+    display:inline-block;
+}
+
+.btn-danger{
+    width: auto;
+}
+
+.titleInput{
+    outline: none;
+}
